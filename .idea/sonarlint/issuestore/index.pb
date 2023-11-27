@@ -13,9 +13,9 @@ B
 src/main/Main.java,f\e\fe03b4fd3afe162c6e01309b98a22588e093d274
 B
 src/main/Drop.java,7\5\75095d95f6b8f087314a7964cb8359e98c67d8d8
-D
-src/main/Random.java,b\6\b6afe4e0add335d4002aa26ee5673e1f2a71cf69
 J
 src/main/RandomValues.java,1\7\17a15f78f1fba220f45988c4300cc6b758930720
-H
-src/main/chuva/Drop.java,9\3\93347cf69ab4b5eb538cf14c5190b4d6caf18bdf
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0

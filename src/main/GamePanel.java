@@ -5,7 +5,7 @@ import java.awt.*;
 
 public class GamePanel extends JPanel {
 
-    private Drop[] drops = new Drop[100];
+    private final Drop[] drops = new Drop[500];
 
     public GamePanel() {
         for(int i = 0; i < drops.length; i++){
