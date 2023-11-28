@@ -20,6 +20,7 @@ public class GamePanel extends JPanel {
         for (Drop drop : drops) {
             drop.show(g);
         }
+        repaint();
     }
 
 }

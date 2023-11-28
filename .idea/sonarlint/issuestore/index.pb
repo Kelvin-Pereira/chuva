@@ -13,8 +13,6 @@ B
 src/main/Main.java,f\e\fe03b4fd3afe162c6e01309b98a22588e093d274
 B
 src/main/Drop.java,7\5\75095d95f6b8f087314a7964cb8359e98c67d8d8
-J
-src/main/RandomValues.java,1\7\17a15f78f1fba220f45988c4300cc6b758930720
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 S

@@ -13,8 +13,6 @@ public class GameWindow {
         jFrame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         jFrame.setVisible(true);
 
-        Timer timer = new Timer(15, e -> jFrame.repaint());
-        timer.start();
     }
 
 }

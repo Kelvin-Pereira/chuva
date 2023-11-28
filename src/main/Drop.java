@@ -6,8 +6,8 @@ import java.util.Random;
 public class Drop {
 
     private int x;
-    private int y;
-    private int yspeed;
+    private float y;
+    private float yspeed;
     private int len;
 
     static Random random = new Random();
@@ -25,14 +25,14 @@ public class Drop {
 
     void show(Graphics g) {
         g.setColor(Color.red);
-        g.drawLine(x, y, x, y + len);
+        g.drawLine(x, (int)y, x, (int)y + len);
         fall();
     }
 
     public void start() {
-        x = random.nextInt(600);
+        x = random.nextInt(600);//with
         y = random.nextInt(-500, -50);
-        yspeed = random.nextInt(4, 10);
+        yspeed = random.nextFloat(0.09f, 0.2f);
         len = random.nextInt(10, 20);
     }
 
